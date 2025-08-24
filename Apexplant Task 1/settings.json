@@ -1,0 +1,9 @@
+{
+  "London": { "temp": 15, "desc": "Cloudy", "humidity": 80, "wind": 5 },
+  "Paris": { "temp": 18, "desc": "Sunny", "humidity": 60, "wind": 3 },
+  "NewYork": { "temp": 22, "desc": "Rainy", "humidity": 70, "wind": 6 },
+  "Tokyo": { "temp": 20, "desc": "Clear Sky", "humidity": 50, "wind": 4 },
+  "Delhi": { "temp": 32, "desc": "Hot", "humidity": 40, "wind": 7 }
+  
+}
+
